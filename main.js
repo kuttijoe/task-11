@@ -1,6 +1,5 @@
 $('.brand').owlCarousel({
-    loop:true,
-	autoplay:true,
+    loop:false,
     margin:10,
     nav:true,
     responsive:{
